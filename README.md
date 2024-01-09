@@ -3,7 +3,7 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/nadeemabualarayes?logo=GitHub&style=for-the-badge)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m **Flutter Developer**
 
 - 👯 I’m looking to collaborate with **other content creators**
 
