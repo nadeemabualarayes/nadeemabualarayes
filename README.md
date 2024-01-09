@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nadeem Abu Al Arayes</h1>
-<h3 align="center">A self-taught programmer and born at very little age😜</h3>
+
 
 ![GitHub followers](https://img.shields.io/github/followers/nadeemabualarayes?logo=GitHub&style=for-the-badge)
 
